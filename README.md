@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
 <h3 align="center">Self-taught, aspiring to become front-end developer.</h3>
 
-❗❗❗ To a possible recruiter 🙂
+
+
+<h2 align="center"> ❗❗❗ To a possible recruiter 🙂
 I`am Curretnly working on https://github.com/JatiMati/DocToReactApp -> https://jatimati.github.io/DocToReactApp/
-❗❗❗
+❗❗❗ </h2>
+
 
 
 <!-- <h3 align="center">Connect with me:</h3>

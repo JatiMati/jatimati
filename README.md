@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
 <h3 align="center">Self-taught, aspiring to become front-end developer.</h3>
 
-I`am Curretnly working on https://jatimati.github.io/DocToReactApp/
+I`am Curretnly working on https://github.com/JatiMati/DocToReactApp -> https://jatimati.github.io/DocToReactApp/
 
 <!-- <h3 align="center">Connect with me:</h3>
 <p align="center">
